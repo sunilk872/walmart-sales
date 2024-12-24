@@ -62,7 +62,7 @@ This project is an end-to-end data analysis solution to extract critical busines
      - Sales performance by time, city, and payment method.
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
-     - - Find the Correlation Between Rating and Total Sales Using a Subquery 
+     - Find the Correlation Between Rating and Total Sales Using a Subquery 
 ```SQL
 SELECT 
     rating,
