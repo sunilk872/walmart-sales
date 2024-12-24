@@ -139,7 +139,7 @@ GROUP BY 1, 2
 ORDER BY 1, 3 DESC
 
 -- 
--- #9 Identify 5 branch with highest decrese ratio in 
+-- Q.9 Identify 5 branch with highest decrese ratio in 
 -- revevenue compare to last year(current year 2023 and last year 2022)
 
 -- rdr == last_rev-cr_rev/ls_rev*100
@@ -194,7 +194,7 @@ LIMIT 5
 
 ----
 
--- Q.19
+-- Q.10
 -- Branch-Wise Total Sales
 
 SELECT 
