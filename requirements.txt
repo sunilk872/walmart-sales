@@ -1,8 +1,9 @@
+```
 pandas
 pymysql
 sqlalchemy
 psycopg2
-
+```
 
 #Instructions & Termnal Commands
 
